@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.1.0](https://github.com/qiweiii/revm/compare/revm-interpreter-v3.0.0...revm-interpreter-v3.1.0) - 2024-02-21
+
+### Added
+- bump c-kzg, add portable feature, make it default ([#1106](https://github.com/qiweiii/revm/pull/1106))
+
+### Other
+- clippy cleanup ([#1112](https://github.com/qiweiii/revm/pull/1112))
+
 ## [3.0.0](https://github.com/bluealloy/revm/compare/revm-interpreter-v2.1.0...revm-interpreter-v3.0.0) - 2024-02-17
 
 ### Fixed
